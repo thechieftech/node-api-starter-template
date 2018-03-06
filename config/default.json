@@ -1,0 +1,9 @@
+{
+  "dbConfig": {
+    "host": "localhost",
+    "port": 27017,
+    "dbName": "webshop",
+    "username": "",
+    "password": ""
+  }
+}
