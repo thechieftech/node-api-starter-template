@@ -6,6 +6,7 @@ Looking for a fast way to get your next Node API project up and running? This st
 * Add lodash package
 * set dateAdded to moment utc
 * clone incoming before setting date
+* Default cors open all
 
 ## Planned additions
 * CORS
